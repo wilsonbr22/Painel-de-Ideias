@@ -5,6 +5,7 @@ Um app em React para guardar minhas ideias de projeto. Dá para adicionar uma id
 ## Como rodar
 
 ```
+cd painel-de-ideias
 npm install
 npm run dev
 ```
